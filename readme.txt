@@ -3,4 +3,8 @@ change
 gpl
 Git has a mutable index called stage.
 Git tracks changes.
-My stupid boss still prefers SVN.my testfeature2
+<<<<<<< HEAD
+My stupid boss still prefers SVN.my testfeature3
+=======
+My stupid boss still prefers SVN.my testfeature3
+>>>>>>> feature1
